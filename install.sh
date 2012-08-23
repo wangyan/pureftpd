@@ -8,7 +8,7 @@
 # All rights reserved.
 # Distributed under the GNU General Public License, version 3.0.
 #
-# Ver: 0.1 build 20120804"
+# Ver: 0.1 build 20120823"
 # Intro: https://wangyan.org/blog/pureftpd-install-script.html
 #
 #====================================================================
